@@ -1,6 +1,6 @@
 # Quick Start with Jenkins
 
-![Quick Start with Jenkins](https://cover-creator.labex.io/quick-start-with-jenkins.png)
+![Quick Start with Jenkins](https://cover-creator.appbot.io/quick-start-with-jenkins.png)
 
 In this course, you will learn how to install Jenkins on a Linux machine using Docker. You will also learn how to create a Jenkins job to build a simple Java application.
 
