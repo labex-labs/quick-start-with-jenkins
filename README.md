@@ -23,7 +23,7 @@ In this course, you will learn how to install Jenkins on a Linux machine using D
 
 ## More
 
-- 🔗 [Jenkins Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Jenkins Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
 
