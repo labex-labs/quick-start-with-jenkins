@@ -19,7 +19,7 @@ In this course, you will learn how to install Jenkins on a Linux machine using D
 |       6 | 🎯 Jenkins Integration Maven Plugin    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189626'>Start Challenge</a> |
 |       7 | 🎯 Jenkins Integration Npm Plugin      | ★★☆          | <a target='_blank' href='https://labex.io/labs/148879'>Start Challenge</a> |
 |       8 | 🎯 Challenge Jenkins Blue Ocean Plugin | ★☆☆          | <a target='_blank' href='https://labex.io/labs/145227'>Start Challenge</a> |
-|       9 | 🎯 Install Jenkins And Create Pipeline | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7771'>Start Challenge</a>   |
+|       9 | 🎯 Install Jenkins and Create Pipeline | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7771'>Start Challenge</a>   |
 
 ## More
 
