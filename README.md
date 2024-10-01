@@ -25,17 +25,19 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                   | Difficulty   | Practice                                                                                                                    |
-|---------|----------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 Installing Jenkins with Docker      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-installing-jenkins-with-docker-29061'>Start Challenge</a>       |
-|       2 | 🎯 Jenkins User Management             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-user-management-149236'>Start Challenge</a>             |
-|       3 | 🎯 Jenkins Plugin Management           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-plugin-management-40829'>Start Challenge</a>            |
-|       4 | 🎯 Jenkins Credentials Management      | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-credentials-management-67529'>Start Challenge</a>       |
-|       5 | 🎯 Jenkins View Management             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-view-management-67545'>Start Challenge</a>              |
-|       6 | 🎯 Jenkins Integration Maven Plugin    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-integration-maven-plugin-189626'>Start Challenge</a>    |
-|       7 | 🎯 Jenkins Integration Npm Plugin      | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-integration-npm-plugin-148879'>Start Challenge</a>      |
-|       8 | 🎯 Challenge Jenkins Blue Ocean Plugin | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-challenge-jenkins-blue-ocean-plugin-145227'>Start Challenge</a> |
-|       9 | 🎯 Install Jenkins and Create Pipeline | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-install-jenkins-and-create-pipeline-7771'>Start Challenge</a>   |
+|   Index | Name                                         | Difficulty   | Practice                                                                                                                        |
+|---------|----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Installing Jenkins with Docker             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-installing-jenkins-with-docker-391174'>Start Lab</a>                |
+|      02 | 🎯 Installing Jenkins with Docker | Challenge | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-installing-jenkins-with-docker-challenge-29061'>Start Challenge</a> |
+|      03 | 📖 Jenkins User Management                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-user-management-391302'>Start Lab</a>                       |
+|      04 | 🎯 Jenkins User Management | Challenge        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-user-management-challenge-149236'>Start Challenge</a>       |
+|      05 | 🎯 Jenkins Plugin Management                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-plugin-management-40829'>Start Challenge</a>                |
+|      06 | 🎯 Jenkins Credentials Management             | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-credentials-management-67529'>Start Challenge</a>           |
+|      07 | 🎯 Jenkins View Management                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-view-management-67545'>Start Challenge</a>                  |
+|      08 | 🎯 Jenkins Integration Maven Plugin           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-integration-maven-plugin-189626'>Start Challenge</a>        |
+|      09 | 🎯 Jenkins Integration Npm Plugin             | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-jenkins-integration-npm-plugin-148879'>Start Challenge</a>          |
+|      10 | 🎯 Challenge Jenkins Blue Ocean Plugin        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-challenge-jenkins-blue-ocean-plugin-145227'>Start Challenge</a>     |
+|      11 | 🎯 Install Jenkins and Create Pipeline        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/jenkins-install-jenkins-and-create-pipeline-7771'>Start Challenge</a>       |
 
 ## More
 
